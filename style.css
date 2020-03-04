@@ -12,11 +12,11 @@ html, body{
     object-fit: cover;
 }
 
-/* Mirrors display for selfies */
+/* Mirrors display for selfies 
 #camera--view, #camera--sensor, #camera--output{
     transform: scaleX(-1);
     filter: FlipH;
-}
+}*/
 
 #camera--trigger{
     width: 200px;
